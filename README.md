@@ -33,7 +33,7 @@ After implementing the challenge in Visual Studio or VSCode, using the structure
 
 ```
 
-The `Test` method will call your Main method, replacing the `System.Console` by a fake implementation passing the `Console` inputs to the test and assert the `Console` outputs.
+The `Test` method will call your Main method, replacing the `System.Console` by a fake implementation passing the `Console` inputs to the test and asserting the `Console` outputs.
 
 See https://github.com/rafaelromao/TestHarness/blob/master/Playground/BinarySubtraction.cs for a working example.
 
