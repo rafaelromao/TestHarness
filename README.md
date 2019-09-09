@@ -4,7 +4,7 @@ Test harness to make it easy to implement  challenges from platforms like Hacker
 
 ## How to use it?
 
-After implementing the challenge in Visual Studio or VSCode, using the structure shown bellow, copy the contents of the `Main` method to the platform and submit your code.
+After implementing the challenge in Visual Studio or VSCode, using the structure shown below, copy the contents of the `Main` method to the platform and submit your code.
 
 ```C#
     [TestFixture]
