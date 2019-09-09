@@ -1,6 +1,6 @@
-# Playground
+# What is it?
 
-Test harness to make it easy to implement  challenges from platforms like Hackerrank, TestDome and Codility.
+A test harness to make it easy to implement  challenges from platforms like Hackerrank, TestDome and Codility.
 
 ## How to use it?
 
