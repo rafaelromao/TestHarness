@@ -40,5 +40,5 @@ See https://github.com/rafaelromao/TestHarness/blob/master/Playground/BinarySubt
 *And remember not to submit your implementations to a public repository, specially if it is part of a coding interview.*
 
 ## Using the Jupyter Notebooks on Binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rafaelromao/TestHarness/Notebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rafaelromao/TestHarness/master?filepath=Notebooks)
 
